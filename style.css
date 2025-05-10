@@ -3,9 +3,15 @@ body{margin:0px;
     background-color: rgb(75, 174, 255);
 }
 
-h1{font-family: 'Courier New', Courier, monospace;
-    font-size:60px;
+h1, h2, h3, h4, h5, h6{font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color:#ffffff;
     text-wrap: wrap;
 }
+
+h1{font-size:60px;}
+h2{font-size:50px;}
+h3{font-size:40px;}
+h4{font-size:30px;}
+h5{font-size:20px;}
+h6{font-size:10px;}
