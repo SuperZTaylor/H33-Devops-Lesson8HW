@@ -1,0 +1,11 @@
+body{margin:0px;
+    padding:0px;
+    background-color: rgb(75, 174, 255);
+}
+
+h1{font-family: 'Courier New', Courier, monospace;
+    font-size:60px;
+    text-align: center;
+    color:#ffffff;
+    text-wrap: wrap;
+}
